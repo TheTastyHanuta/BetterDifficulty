@@ -1,0 +1,6 @@
+name: BetterDifficulty
+version: 1.0
+author: Hanuta
+main: az.main.Main
+commands:
+  difficulty:
